@@ -1,3 +1,6 @@
 # whiteboarding-thoughts
-A collection of whiteboard, notes pics 
+A collection of `thought processes`.
+* Whiteboarding
+* Notes
+* Links 
 
